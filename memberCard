@@ -1,0 +1,172 @@
+<div data-v-4303e5a9="" class="bg-white memeberCard self-center">
+    <div data-v-4303e5a9="" class="imgage">
+        <div data-v-4303e5a9="" role="img" aria-label="member card url" class="q-img overflow-hidden"
+            style="width: 100%;">
+            <div style="padding-bottom: 59.375%;"></div>
+            <div class="q-img__image absolute-full"
+                style="background-size: cover; background-position: 50% 50%; border-radius: 22px 22px 0px 0px; min-height: 100px; background-image: url(&quot;https://cdn-order.nidin.shop/nidin2/img/memberCard_nidin.a8c410b7.png&quot;);">
+            </div>
+            <div class="q-img__content absolute-full"></div>
+        </div>
+        <!---->
+    </div>
+    <div data-v-4303e5a9="" class="flex-column">
+        <div data-v-4303e5a9="" class="col-auto flex-center q-pr-sm q-pb-xs text-center"
+            style="margin-top: -50px; margin-bottom: -30px;">
+            <div data-v-4303e5a9="" class="flex justify-center" style="left: 4px; top: 10px;">
+                <div data-v-4303e5a9="" class="col-auto flex flex-center">
+                    <div data-v-4303e5a9="" class="q-avatar" style="font-size: 80px;">
+                        <div class="q-avatar__content row flex-center overflow-hidden">
+                            <div data-v-4303e5a9="" role="img" class="q-img overflow-hidden">
+                                <div style="padding-bottom: 100%;"></div>
+                                <div class="q-img__image absolute-full circle"
+                                    style="background-size: cover; background-position: 50% 50%; background-image: url(&quot;https://ap-south-1.linodeobjects.com/nidin-production/shopper/mugshots/1686329_aIGYDG5sI2NomOB3.jpg&quot;);">
+                                </div>
+                                <div class="q-img__content absolute-full"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-v-4303e5a9="" class="flex flex-center absolute xt-12 q-badge-xs circle bg-line"
+                        style="right: -12px; bottom: 5px; width: 35px; height: 35px;"><img data-v-4303e5a9=""
+                            width="20px"
+                            src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgNjAgNjAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYwIDYwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6I0ZGRkZGRjt9Cjwvc3R5bGU+Cjx0aXRsZT5jb25uZWN0PC90aXRsZT4KPGcgaWQ9IkZVTExfQ09MT1JfSUNPTiI+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzAsMS40Yy0xNi41LDAtMzAsMTEtMzAsMjQuM2MwLDEyLDEwLjcsMjIuMSwyNS4xLDI0YzEsMC4yLDIuMywwLjYsMi42LDEuNWMwLjIsMC45LDAuMywxLjgsMC4xLDIuNwoJCWwtMC40LDIuNWMtMC4xLDAuOC0wLjYsMywyLjYsMS42UzQ3LjMsNDgsNTMuNSw0MC43YzQuNC00LjgsNi40LTkuNiw2LjQtMTVoMEM2MCwxMi4zLDQ2LjUsMS40LDMwLDEuNHogTTE5LjQsMzIuOQoJCWMwLDAuMy0wLjMsMC42LTAuNiwwLjZoLTguNGMtMC4xLDAtMC4zLTAuMS0wLjQtMC4yYy0wLjEtMC4xLTAuMi0wLjItMC4yLTAuNFYxOS45YzAtMC4zLDAuMy0wLjYsMC42LTAuNmgyLjEKCQljMC4zLDAsMC42LDAuMywwLjYsMC42djEwLjRoNS43bDAtMC4xYzAuMywwLDAuNiwwLjMsMC42LDAuNlYzMi45eiBNMjQuNSwzMi45YzAsMC4zLTAuMywwLjYtMC42LDAuNmgtMi4xYy0wLjMsMC0wLjYtMC4zLTAuNi0wLjYKCQlWMTkuOWMwLTAuMywwLjMtMC42LDAuNi0wLjZoMi4xYzAuMywwLDAuNiwwLjMsMC42LDAuNlYzMi45eiBNMzksMzIuOEMzOSwzMi44LDM5LDMyLjgsMzksMzIuOGMwLDAuMy0wLjMsMC42LTAuNiwwLjZIMzYKCQljLTAuMSwwLTAuMS0wLjEtMC4yLTAuMWwtNi04LjF2OGMwLDAuMy0wLjMsMC42LTAuNiwwLjZoLTIuMWMtMC4zLDAtMC42LTAuMy0wLjYtMC42VjIwLjFjMC0wLjMsMC4zLTAuNiwwLjYtMC42aDIuNmw2LDguMXYtNy44CgkJYzAtMC4zLDAuMy0wLjYsMC42LTAuNmgyLjFjMC4zLDAsMC42LDAuMywwLjYsMC42VjMyLjh6IE01MCwyNC44YzAuMywwLDAuNiwwLjMsMC42LDAuNnYyLjFjMCwwLDAsMCwwLDBjMCwwLjMtMC4zLDAuNi0wLjYsMC42CgkJaC01Ljd2Mi4ySDUwYzAuMywwLDAuNiwwLjMsMC42LDAuNnYyLjFjMCwwLjMtMC4zLDAuNi0wLjYsMC42aC04LjRjLTAuMSwwLTAuMy0wLjEtMC40LTAuMmMtMC4xLTAuMS0wLjItMC4yLTAuMi0wLjRWMTkuOAoJCWMwLTAuMSwwLjEtMC4zLDAuMi0wLjRjMC4xLTAuMSwwLjMtMC4yLDAuNC0wLjJINTBjMC4zLDAsMC42LDAuMywwLjYsMC42djIuMWMwLDAsMCwwLDAsMGMwLDAuMy0wLjMsMC42LTAuNiwwLjZoLTUuN3YyLjJINTB6Ii8+CjwvZz4KPC9zdmc+Cg=="
+                            alt="line"></div>
+                </div>
+            </div>
+            <div data-v-4303e5a9="" class="row"
+                style="justify-content: flex-end; right: 13px; top: -10px; height: 19px;">
+                <!---->
+            </div>
+        </div>
+        <div data-v-4303e5a9="" class="flex" style="justify-content: center; margin-top: 20px; margin-left: 20px;">
+            <div data-v-4303e5a9="" class="title font-size-subtitle-1">
+                ShihShihDer
+            </div>
+            <div data-v-4303e5a9="" class="col-auto"><i data-v-4303e5a9="" aria-hidden="true" role="presentation"
+                    class="q-ma-none cursor-pointer q-icon text-grey-5 notranslate material-icons"
+                    style="font-size: 20px;">create</i></div>
+        </div>
+    </div>
+    <!---->
+    <!---->
+    <!---->
+    <div data-v-4303e5a9="" class="flex justify-center" style="margin-bottom: 15px; margin-top: 19px;">
+        <div data-v-4303e5a9="" class="flex cursor-pointer items-center"
+            style="width: 211px; justify-content: space-between; border: 1px solid rgb(223, 223, 223); border-radius: 25px; padding: 9px 15px; display: none;">
+            <div data-v-4303e5a9="" class="flex items-center no-wrap"><img data-v-4303e5a9=""
+                    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMi4xMyIgaGVpZ2h0PSIxNy40NCIgdmlld0JveD0iMCAwIDIyLjEzIDE3LjQ0Ij4NCiAgPGcgaWQ9Ikdyb3VwXzQxIiBkYXRhLW5hbWU9Ikdyb3VwIDQxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTE2IC01NjcuODkyKSI+DQogICAgPHBhdGggaWQ9IlBhdGhfMTgiIGRhdGEtbmFtZT0iUGF0aCAxOCIgZD0iTTExLjA2Nyw1NC4zNjZhOC43MTYsOC43MTYsMCwxLDAsMCwxNi43ODUsOC43MTUsOC43MTUsMCwxLDAsMC0xNi43ODVaTTEuMyw2Mi43NTlhNy40MjEsNy40MjEsMCwwLDEsNy41MzUtNy40MTEsOC43MDksOC43MDksMCwwLDAsMCwxNC44MjNBNy40MjEsNy40MjEsMCwwLDEsMS4zLDYyLjc1OVptMTIuMTE0LDcuNDEzYTcuNDEzLDcuNDEzLDAsMSwxLDcuNDEzLTcuNDEzQTcuNDIxLDcuNDIxLDAsMCwxLDEzLjQxNSw3MC4xNzJaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTYgNTEzLjg1MykiIGZpbGw9IiNiY2JjYmMiLz4NCiAgICA8cGF0aCBpZD0iUGF0aF8xOSIgZGF0YS1uYW1lPSJQYXRoIDE5IiBkPSJNMjM4Ljg3LDEzNS4zOTJoLTEuODQ1YTEuMDA2LDEuMDA2LDAsMCwxLDAtMi4wMTJoMS43ODFhMS40MTEsMS40MTEsMCwwLDEsMS4wMDcuNDU1LjY1MS42NTEsMCwwLDAsLjk1LS44OSwyLjc0MiwyLjc0MiwwLDAsMC0yLjE2NC0uODY2di0uNzhhLjY1MS42NTEsMCwxLDAtMS4zLDB2Ljc4YTIuMzE2LDIuMzE2LDAsMSwwLS4yNzIsNC42MTZoMS44NDVhMS4wMDYsMS4wMDYsMCwwLDEsMCwyLjAxMmgtMS45NDJhMS40LDEuNCwwLDAsMS0uNzg0LS4yNjQuNjUxLjY1MSwwLDAsMC0uNzQyLDEuMDcsMi44OTIsMi44OTIsMCwwLDAsMS44OTQuNXYuNzhhLjY1MS42NTEsMCwwLDAsMS4zLDB2LS43OGEyLjMxNiwyLjMxNiwwLDEsMCwuMjcyLTQuNjE2WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwOC41MzIgNDQwLjU3MikiIGZpbGw9IiNiY2JjYmMiLz4NCiAgPC9nPg0KPC9zdmc+DQo="
+                    alt="coupon_icon" class="full-whdth">
+                <div data-v-4303e5a9="" class="q-ml-sm font-size-subtitle-1">折扣點數</div>
+            </div>
+            <div data-v-4303e5a9="" class="font-size-subtitle-1">
+                0點
+            </div>
+        </div>
+    </div>
+    <div data-v-4303e5a9="" class="flex justify-center"><a data-v-4303e5a9="" href="/coupons" class="">
+            <div data-v-4303e5a9="" class="flex"
+                style="width: 211px; justify-content: space-between; border: 1px solid rgb(223, 223, 223); border-radius: 25px; padding: 9px 15px;">
+                <div data-v-4303e5a9="" class="flex items-center no-wrap"><img data-v-4303e5a9=""
+                        src="data:image/svg+xml;base64,PHN2ZyBpZD0iY291cG9uIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMi4xMyIgaGVpZ2h0PSIxNy40ODIiIHZpZXdCb3g9IjAgMCAyMi4xMyAxNy40ODIiPg0KICA8cGF0aCBpZD0iUGF0aF8yMCIgZGF0YS1uYW1lPSJQYXRoIDIwIiBkPSJNMjAuMDU1LDc2Ljg5M0gyLjA3NUEyLjEzNCwyLjEzNCwwLDAsMSwwLDc0LjcwOFY3MS4wNjZhLjcxLjcxLDAsMCwxLC42OTItLjcyOCwyLjE4OCwyLjE4OCwwLDAsMCwwLTQuMzcxQS43MS43MSwwLDAsMSwwLDY1LjIzOFY2MS42YTIuMTM0LDIuMTM0LDAsMCwxLDIuMDc1LTIuMTg1aDE3Ljk4QTIuMTM0LDIuMTM0LDAsMCwxLDIyLjEzLDYxLjZ2My42NDJhLjcxLjcxLDAsMCwxLS42OTIuNzI4LDIuMTg4LDIuMTg4LDAsMCwwLDAsNC4zNzEuNzEuNzEsMCwwLDEsLjY5Mi43Mjh2My42NDJhMi4xMzUsMi4xMzUsMCwwLDEtMi4wNzUsMi4xODVaTTEuMzgzLDcxLjcyMXYyLjk4N2EuNzExLjcxMSwwLDAsMCwuNjkyLjcyOGgxNy45OGEuNzExLjcxMSwwLDAsMCwuNjkyLS43MjhWNzEuNzIxYTMuNjg1LDMuNjg1LDAsMCwxLDAtNy4xMzhWNjEuNmEuNzExLjcxMSwwLDAsMC0uNjkyLS43MjhIMi4wNzVhLjcxMS43MTEsMCwwLDAtLjY5Mi43Mjh2Mi45ODdhMy42ODUsMy42ODUsMCwwLDEsMCw3LjEzOFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTU5LjQxMSkiIGZpbGw9IiNiY2JjYmMiLz4NCiAgPHBhdGggaWQ9IlBhdGhfMjEiIGRhdGEtbmFtZT0iUGF0aCAyMSIgZD0iTS4wMzUuMywxMi42NDYsMGwtLjAzNSwxLjRMMCwxLjY5NFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDguMDUyIDE0LjM1NSkgcm90YXRlKC02OS40NDQpIiBmaWxsPSIjYmNiY2JjIi8+DQogIDxwYXRoIGlkPSJwYXRoLTFfMjBfIiBkPSJNMTIwLjksMTUyLjY3OGEyLjA3NSwyLjA3NSwwLDEsMSwyLjA3NS0yLjA3NUEyLjA3NywyLjA3NywwLDAsMSwxMjAuOSwxNTIuNjc4Wm0wLTIuNzY2YS42OTIuNjkyLDAsMSwwLC42OTIuNjkyQS42OTIuNjkyLDAsMCwwLDEyMC45LDE0OS45MTJaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTEzLjEwNCAtMTQzLjgzNSkiIGZpbGw9IiNiY2JjYmMiLz4NCiAgPHBhdGggaWQ9InBhdGgtMV8xOV8iIGQ9Ik0yNjkuNDI3LDI0MS44YTIuMDc1LDIuMDc1LDAsMSwxLDIuMDc1LTIuMDc1QTIuMDc3LDIuMDc3LDAsMCwxLDI2OS40MjcsMjQxLjhabTAtMi43NjZhLjY5Mi42OTIsMCwxLDAsLjY5Mi42OTJBLjY5Mi42OTIsMCwwLDAsMjY5LjQyNywyMzkuMDI5WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTI1NC40ODUgLTIyOC4zNTgpIiBmaWxsPSIjYmNiY2JjIi8+DQo8L3N2Zz4NCg=="
+                        alt="coupon_icon" class="full-whdth">
+                    <div data-v-4303e5a9="" class="q-ml-sm font-size-subtitle-1">
+                        我的券夾
+                    </div>
+                </div>
+                <div data-v-4303e5a9="" class="font-size-subtitle-1">
+                    0張
+                </div>
+            </div>
+        </a></div>
+    <div data-v-4303e5a9="" class="q-mt-sm text-center"
+        style="padding-bottom: 27px; padding-top: 19px; margin-top: -2px;">
+        <div data-v-4303e5a9="" class="inline-block cursor-pointer"><span data-v-4303e5a9=""
+                style="font-size: 10px; z-index: 1; bottom: -11px;">
+                會員編號
+            </span>
+            <div data-v-4303e5a9="" class="q-my-lg" style="margin: 0px;">
+                <div class="flex flex-center">
+                    <div><svg id="barcode" width="251px" height="104px" x="0px" y="0px" viewBox="0 0 251 104"
+                            xmlns="http://www.w3.org/2000/svg" version="1.1" style="transform: translate(0,0)">
+                            <rect x="0" y="0" width="251" height="104" style="fill:#ffffff;"></rect>
+                            <g transform="translate(10, 10)" style="fill:#000000;">
+                                <rect x="0" y="0" width="1.2" height="70"></rect>
+                                <rect x="4.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="7.199999999999999" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="12" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="16.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="19.200000000000003" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="24" y="0" width="1.2" height="70"></rect>
+                                <rect x="26.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="31.2" y="0" width="1.2" height="70"></rect>
+                                <rect x="33.599999999999994" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="38.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="40.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="45.599999999999994" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="50.4" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="55.199999999999996" y="0" width="1.2" height="70"></rect>
+                                <rect x="57.599999999999994" y="0" width="1.2" height="70"></rect>
+                                <rect x="59.99999999999999" y="0" width="1.2" height="70"></rect>
+                                <rect x="64.8" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="69.6" y="0" width="1.2" height="70"></rect>
+                                <rect x="72" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="76.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="79.19999999999999" y="0" width="1.2" height="70"></rect>
+                                <rect x="84" y="0" width="1.2" height="70"></rect>
+                                <rect x="86.4" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="91.2" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="96" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="100.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="105.60000000000001" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="110.39999999999999" y="0" width="1.2" height="70"></rect>
+                                <rect x="112.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="115.2" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="119.99999999999999" y="0" width="1.2" height="70"></rect>
+                                <rect x="124.80000000000001" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="129.6" y="0" width="1.2" height="70"></rect>
+                                <rect x="132" y="0" width="1.2" height="70"></rect>
+                                <rect x="134.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="136.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="141.6" y="0" width="1.2" height="70"></rect>
+                                <rect x="144" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="148.8" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="153.6" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="158.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="163.20000000000002" y="0" width="1.2" height="70"></rect>
+                                <rect x="165.6" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="170.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="172.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="175.2" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="182.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="184.8" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="189.6" y="0" width="1.2" height="70"></rect>
+                                <rect x="192" y="0" width="1.2" height="70"></rect>
+                                <rect x="194.4" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="201.6" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="206.4" y="0" width="1.2" height="70"></rect>
+                                <rect x="208.8" y="0" width="1.2" height="70"></rect>
+                                <rect x="211.20000000000002" y="0" width="1.2" height="70"></rect>
+                                <rect x="216" y="0" width="1.2" height="70"></rect>
+                                <rect x="218.4" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="223.2" y="0" width="3.5999999999999996" height="70"></rect>
+                                <rect x="228" y="0" width="1.2" height="70"></rect><text style="font: 12px monospace"
+                                    text-anchor="middle" x="115.5" y="84">A047557896</text>
+                            </g>
+                        </svg></div>
+                </div>
+                <!---->
+                <div class="flex flex-center q-mb-lg" style="display: none;"><img
+                        src="data:image/png;base64,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">
+                </div>
+                <!---->
+            </div>
+        </div>
+        <div data-v-4303e5a9="" style="font-size: 10px; z-index: 1; bottom: 8px;">
+            <div data-v-4303e5a9="" class="cursor-pointer flex justify-center items-center text-gray-3">
+                <div data-v-4303e5a9="">複製</div><img data-v-4303e5a9=""
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuMDYxMDUgMi45NjI0SDEuMzUwNTlWMTUuNTU0NEgxMC41MTU4QzExLjE5NDggMTUuNTU0NCAxMS43NDg4IDE1LjAxOTYgMTEuNzQ4OCAxNC4zNjQzVjEzLjAzMjUiIHN0cm9rZT0iIzk2OTY5NiIgc3Ryb2tlLXdpZHRoPSIwLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMC44MDcxIDIuODEyMTZWMC40NDU4MDFINC4yNTA5OFYxMy4wMzc4SDEzLjQxNjJDMTQuMDkzNCAxMy4wMzc4IDE0LjY0OTIgMTIuNTAxMyAxNC42NDkyIDExLjg0NzdWNC4wMDIzM0gxMi4wMzgzQzExLjM2MTIgNC4wMDIzMyAxMC44MDcxIDMuNDY3NTQgMTAuODA3MSAyLjgxMjE2WiIgc3Ryb2tlPSIjOTY5Njk2IiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTYuODc1IDYuOTQxODlIMTIuMTAyMiIgc3Ryb2tlPSIjOTY5Njk2IiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTYuODc1IDguOTkwMjNIOC40NDI5NiIgc3Ryb2tlPSIjOTY5Njk2IiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMC4yODIyIDguOTkwMjNIMTAuOTI2OCIgc3Ryb2tlPSIjOTY5Njk2IiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMi4wNDA2IDQuMDAyMzNDMTEuMzYxNyA0LjAwMjMzIDEwLjgwNzYgMy40Njc1NCAxMC44MDc2IDIuODEyMTZWMC40NDU4MDFMMTQuNjQ5NyA0LjAwMjMzSDEyLjA0MDZaIiBzdHJva2U9IiM5Njk2OTYiIHN0cm9rZS13aWR0aD0iMC41IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K"
+                    alt="copy_icon" class="copy-icon">
+            </div>
+        </div>
+    </div>
+</div>
